@@ -2,6 +2,9 @@
 
 A curated list of research papers, surveys, and resources on **Agentic AI** — covering theoretical foundations, planning and reasoning, multi-agent systems, tool use, LLM-based agents, evaluation, and real-world applications.
 
+> **Note:** This repository is actively maintained and updated **monthly** with the latest Agentic AI papers and resources.
+
+
 Each paper is listed with:
 **Title | Authors | Venue | Year | Paper Link**
 
