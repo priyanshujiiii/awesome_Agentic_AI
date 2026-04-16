@@ -97,6 +97,7 @@ Each paper is listed with:
 
 | Title | Authors | Venue | Year | Paper Link |
 |---|---|---:|---:|---|
+| CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery | A. Qu et al. | arXiv | 2026 | [Link](https://arxiv.org/abs/2604.01658) |
 | Emergent Coordination in Multi-Agent LLM Systems | H. Zhang, Y. Liu | NeurIPS | 2023 | [Link](https://arxiv.org/abs/xxxx.xxxxx) |
 | Multi-Agent Debate Improves Reasoning in LLMs | Z. Du et al. | ICLR | 2024 | [Link](https://arxiv.org/abs/xxxx.xxxxx) |
 | CAMEL: Communicative Agents for “Mind Exploration” | L. Li et al. | arXiv | 2023 | [Link](https://arxiv.org/abs/2303.17760) |
