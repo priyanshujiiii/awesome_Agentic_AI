@@ -127,6 +127,7 @@ Each paper is listed with:
 | Coordinated Exploration in Multi-Agent LLM Systems | A. Kim et al. | ICLR | 2024 | [Link](https://arxiv.org/abs/xxxx.xxxxx) |
 | Multi-Agent Role-Playing Games for AI Safety | S. Green et al. | AIES | 2023 | [Link](https://arxiv.org/abs/xxxx.xxxxx) |
 | Emergent Cooperation via Natural Language | N. Young et al. | ACL | 2023 | [Link](https://arxiv.org/abs/xxxx.xxxxx) |
+| [AI Group Call](https://aigroupcall.app) | - | - | - | Practice pitches and interviews against a panel of AI voices that push back live, then share the transcript. |
 
 ## 4. Tool-Using Agents
 
